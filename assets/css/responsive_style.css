@@ -1,0 +1,47 @@
+
+/********************  MIN Media *********************/
+@media screen and (min-width: 320px) {}
+@media screen and (min-width: 376px) {}
+@media screen and (min-width: 415px) {}
+@media screen and (min-width: 576px) {}
+@media screen and (min-width: 768px) {}
+@media screen and (min-width: 992px) {}
+@media screen and (min-width: 1081px) {}
+@media screen and (min-width: 1281px) {}
+@media screen and (min-width: 1361px) {}
+@media screen and (min-width: 1441px) {}
+@media screen and (min-width: 1531px) {}
+@media screen and (min-width: 1601px) {}
+@media screen and (min-width: 1920px) {}
+
+/********************  MAX Media *********************/
+
+@media screen and (max-width: 1920px) {}
+@media screen and (max-width: 1600px) {}
+@media screen and (max-width: 1530px) {}
+@media screen and (max-width: 1500px) {}
+@media screen and (max-width: 1440px) {}
+@media screen and (max-width: 1360px) {}
+@media screen and (max-width: 1280px) {}
+@media screen and (max-width: 1200px) {}
+
+
+@media screen and (max-width: 1199px) {}
+@media screen and (max-width: 1080px) {}
+@media screen and (max-width: 1023px) {}
+
+@media screen and (max-width: 991px) {}
+@media screen and (max-width: 767px) {}
+@media screen and (max-width: 637px) {}
+@media screen and (max-width: 575px) {}
+
+@media screen and (max-width: 480px) {}
+@media screen and (max-width: 450px) {}
+@media screen and (max-width: 430px) {}
+@media screen and (max-width: 400px) {}
+
+@media screen and (max-width: 375px) {}
+@media screen and (max-width: 320px) {}
+
+
+
